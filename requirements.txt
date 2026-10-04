@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic-settings
+python-dotenv
+PyJWT
+pwdlib
+python-multipart
+httpx
